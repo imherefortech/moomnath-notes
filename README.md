@@ -1,0 +1,1 @@
+Random notes from reading [Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/)
